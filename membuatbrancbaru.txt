@@ -4,3 +4,4 @@
 2.kemuidian git branch namabranch
 3.setelah tu git checkout namabranch agar berpindah branch yang dituju 
 4.setealh itu git push origin yudana
+5.edit file
