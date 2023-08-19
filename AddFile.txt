@@ -1,0 +1,7 @@
+# Menambahkan File Serta Commit 
+
+1. tambahkan file pada vs code 
+2. save
+3. git status 
+4. git add namafile.txt
+5. git commit -m "Menambahkan namafile.txt"
