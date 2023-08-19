@@ -1,0 +1,3 @@
+# Mempersingkat perintah git
+
+1. git config --global alias.logone "log --oneline"

@@ -1,0 +1,3 @@
+# Mencari tahu siapa yang Menambahkan
+
+1. git blame namafile.txt 
