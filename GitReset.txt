@@ -1,0 +1,6 @@
+# Reset Commit
+1. git reset --soft hash #tidak melakukan perubaha apapu di staging index dan working area
+
+2. git reset --mixed hash # Mengubah staging index menjadi sama seperti dengan repository, Namun tidak mengubah apapun di working Directory
+
+3. git reset --hard  # Mengubah staging dan working Directory sama dengan repository

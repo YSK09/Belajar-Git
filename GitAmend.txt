@@ -1,0 +1,2 @@
+# Menggabungkan commit yang sudah ada jika ada data yng belum di tambahkan 
+1. git commit --amend -m 
