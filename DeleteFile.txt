@@ -1,0 +1,2 @@
+# Delete FIle pada Git
+1. git rm namafile.txt

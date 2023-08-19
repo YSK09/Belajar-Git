@@ -1,0 +1,11 @@
+# Membatalkan Semua Penambahan File Pada Working Directory
+
+1. git clean -f
+
+# Membatalkan Semua Perubahan File Pada Working Directory
+
+1. git restore namafile.txt
+
+# Membatalkan Semua Perubahan File Pada Staged Index
+
+1. git restore --staged namafile.txt
