@@ -1,0 +1,11 @@
+#Configurasi Awal pada Aplikasi Git
+
+1. git config --global user.name "Yudana Satria Kinanto"
+2. git config --global user.email "yudanasatria@gmail.com"
+3. git config --global core.editor "code --wait"
+4. git config --global diff.tool "default-difftool"
+5. git config --global difftool.default-difftool.cmd "code --wait --diff \$LOCAL \$REMOTE"
+
+#Melihat Keseluruhan Configurasi
+
+1.git config --list --show-origin
