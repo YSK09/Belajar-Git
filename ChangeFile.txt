@@ -1,0 +1,5 @@
+# Mengubah File Pada Git
+
+# Melihat Perubahan Pada Git 
+
+1. git diff
